@@ -11,12 +11,12 @@
 
 <style>
    .leftimg {
-    float:left; /* Выравнивание по левому краю */
-    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+    float:left; 
+    margin: 7px 7px 7px 0; 
    }
    .rightimg  {
-    float: right; /* Выравнивание по правому краю  */ 
-    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+    float: right;
+    margin: 7px 0 7px 7px;
    }
   </style>
 
@@ -27,9 +27,9 @@
       
 
 <h1 id="zhyzha"><strong>Zhyldyz Kurmanbek</strong></h1>
-      
+ <body>
 <img scr="09.jpg">
-      
+      </body>
 
 <h2 id="contacts"><strong>Contacts</strong></h2>
 <ul>
