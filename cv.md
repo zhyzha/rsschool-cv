@@ -29,7 +29,7 @@
 
 <h2 id="about-me"><strong>About Me</strong></h2>
 <p>I'm 22 years old now. After graduation, I was motivated to learn something new. And maybe change my life<br />
-I hope the course will help me with that </p>
+I hope that course will help me with it. </p>
 
 <h2 id="skills"><strong>Skills</strong></h2>
 <ul>
