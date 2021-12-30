@@ -9,7 +9,16 @@
 <meta property="og:title" content="rsschool-cv" />
 <meta property="og:locale" content="en_US" />
 
-
+<style>
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+  </style>
 
     
   </head>
@@ -18,6 +27,9 @@
       
 
 <h1 id="zhyzha"><strong>Zhyldyz Kurmanbek</strong></h1>
+      
+<img scr="09.jpg">
+      
 
 <h2 id="contacts"><strong>Contacts</strong></h2>
 <ul>
