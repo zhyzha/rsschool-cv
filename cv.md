@@ -68,7 +68,7 @@ p {
       <li><a href="https://rs.school/js-stage0/">RS-school(currently on stage 0)</a></li>
       <li><a href="https://ru.code-basics.com/languages/html">RU-code</a></li>
      
-    </ul>
+   
   </li>
 
 
