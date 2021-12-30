@@ -70,7 +70,7 @@ p {
      
     </ul>
   </li>
-</ul>
+
 
 <h2 id="english"><strong>English</strong></h2>
 <p><strong>A2</strong> (I had been practicing English by watching movies, listening apple podcasts)</p>
