@@ -1,2 +1,2 @@
-# rsschool-cv
+# rsschool-c
 https://github.com/zhyzha/rsschool-cv/blob/gh-pages/cv.md
