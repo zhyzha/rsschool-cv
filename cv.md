@@ -17,8 +17,6 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="rsschool-cv"><strong><a href="https://github.com/zhyzha/rsschool-cv">rsschool-cv</a></strong></h1>
-
 <h1 id="zhyzha"><strong>Zhyldyz Kurmanbek</strong></h1>
 
 <h2 id="contacts"><strong>Contacts</strong></h2>
@@ -41,30 +39,41 @@ I hope the course will help me with that </p>
 </ul>
 
 <h2 id="code-example"><strong>Code Example</strong></h2>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function sum(a, b) {
-  return a + b;
-}
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
 
-let result = sum(1, 2);
-alert( result );
+<p>Hello World!</p>
+<p>These paragraphs are styled with CSS.</p>
+
+</body>
+</html>;
 </code></pre></div></div>
 
 <h2 id="experience"><strong>Experience</strong></h2>
 
 <h2 id="education"><strong>Education</strong></h2>
 <ul>
-  <li><strong>University:</strong> Belarusian National Technical University, Civil Engineering major</li>
+  <li><strong>University:</strong> Kyrgyz National University, Kyrgyz-Chinese faculty, Philological sector</li>
   <li><strong>Courses:</strong>
     <ul>
-      <li><a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50 lectures</a></li>
-      <li><a href="https://www.freecodecamp.org">FreeCodeCamp</a></li>
+      <li><a href="https://rs.school/js-stage0/">RS-school(currently on stage 0)</a></li>
+      
       <li><a href="https://www.htmlacademy.ru">HTML Academy</a></li>
     </ul>
   </li>
 </ul>
 
 <h2 id="english"><strong>English</strong></h2>
-<p><strong>A2</strong> (I had been practicing English, when I worked in the USA as an exchange student)</p>
+<p><strong>A2</strong> (I had been practicing English, watching movies, listening apple podcasts)</p>
 
 
 
