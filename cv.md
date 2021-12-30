@@ -9,27 +9,11 @@
 <meta property="og:title" content="rsschool-cv" />
 <meta property="og:locale" content="en_US" />
 
-<style>
-   .leftimg {
-    float:left; 
-    margin: 7px 7px 7px 0; 
-   }
-   .rightimg  {
-    float: right;
-    margin: 7px 0 7px 7px;
-   }
-  </style>
-
     
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-
-<h1 id="zhyzha"><strong>Zhyldyz Kurmanbek</strong></h1>
- <body>
-<img scr="09.jpg">
-      </body>
+     
 
 <h2 id="contacts"><strong>Contacts</strong></h2>
 <ul>
